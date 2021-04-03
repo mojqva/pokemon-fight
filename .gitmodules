@@ -1,3 +1,3 @@
 [submodule "pokemon-fights"] 
   path = pokemon-fights 
-  url = git://github.com/mojqva/pokemon-fight/
+  url = https://github.com/mojqva/pokemon-fight
