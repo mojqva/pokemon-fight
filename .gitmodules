@@ -1,0 +1,3 @@
+[submodule "pokemon-fights"] 
+  path = pokemon-fights 
+  url = git://url-of-source/
